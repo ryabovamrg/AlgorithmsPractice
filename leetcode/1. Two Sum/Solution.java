@@ -1,5 +1,3 @@
-//https://leetcode.com/problems/two-sum/description/
-
 class Solution {
     public int[] twoSum(int[] nums, int target) {
           ListNode res = new ListNode();
