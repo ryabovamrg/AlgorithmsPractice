@@ -1,1 +1,1 @@
-https://leetcode.com/problems/fizz-buzz/
+https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/

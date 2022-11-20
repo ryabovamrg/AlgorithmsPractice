@@ -1,1 +1,1 @@
-https://leetcode.com/problems/fizz-buzz/
+https://leetcode.com/problems/middle-of-the-linked-list/
